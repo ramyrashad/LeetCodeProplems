@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Learn\\LeetCodeProplems\\LeetCodeProplems\\LeetCodeProplems.csproj": {}
+    "C:\\Work\\Learn\\LeetCodeProplems\\LeetCodeProplems.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Learn\\LeetCodeProplems\\LeetCodeProplems\\LeetCodeProplems.csproj": {
+    "C:\\Work\\Learn\\LeetCodeProplems\\LeetCodeProplems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Learn\\LeetCodeProplems\\LeetCodeProplems\\LeetCodeProplems.csproj",
+        "projectUniqueName": "C:\\Work\\Learn\\LeetCodeProplems\\LeetCodeProplems.csproj",
         "projectName": "LeetCodeProplems",
-        "projectPath": "C:\\Work\\Learn\\LeetCodeProplems\\LeetCodeProplems\\LeetCodeProplems.csproj",
+        "projectPath": "C:\\Work\\Learn\\LeetCodeProplems\\LeetCodeProplems.csproj",
         "packagesPath": "C:\\Users\\Ramy Rashad\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Learn\\LeetCodeProplems\\LeetCodeProplems\\obj\\",
+        "outputPath": "C:\\Work\\Learn\\LeetCodeProplems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ramy Rashad\\AppData\\Roaming\\NuGet\\NuGet.Config",
