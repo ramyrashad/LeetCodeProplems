@@ -1,0 +1,8 @@
+C:\Work\Learn\SortingLeetCodeProplems\bin\Debug\SortingLeetCodeProplems.exe.config
+C:\Work\Learn\SortingLeetCodeProplems\bin\Debug\SortingLeetCodeProplems.exe
+C:\Work\Learn\SortingLeetCodeProplems\bin\Debug\SortingLeetCodeProplems.pdb
+C:\Work\Learn\SortingLeetCodeProplems\obj\Debug\SortingLeetCodeProplems.csproj.AssemblyReference.cache
+C:\Work\Learn\SortingLeetCodeProplems\obj\Debug\SortingLeetCodeProplems.csproj.SuggestedBindingRedirects.cache
+C:\Work\Learn\SortingLeetCodeProplems\obj\Debug\SortingLeetCodeProplems.csproj.CoreCompileInputs.cache
+C:\Work\Learn\SortingLeetCodeProplems\obj\Debug\SortingLeetCodeProplems.exe
+C:\Work\Learn\SortingLeetCodeProplems\obj\Debug\SortingLeetCodeProplems.pdb
