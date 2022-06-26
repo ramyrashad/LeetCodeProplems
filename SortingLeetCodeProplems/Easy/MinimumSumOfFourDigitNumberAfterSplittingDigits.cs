@@ -14,12 +14,13 @@ namespace SortingLeetCodeProplems.Easy
         {
             char[] numberArray = num.ToString().ToCharArray();
             var intArray = numberArray.ToList().Select(a => Convert.ToInt32(a.ToString())).ToList();
+
             intArray.Sort();
 
-            var num1String = intArray[0].ToString() + intArray[2].ToString();
-            var num2String = intArray[1].ToString() + intArray[3].ToString();
+            var num1 = intArray[0] * 10 + intArray[2];
+            var num2 = intArray[1] * 10 + intArray[3];
 
-            return Convert.ToInt32(num1String) + Convert.ToInt32(num2String);
+            return num1 + num2;
         }
     }
 }
