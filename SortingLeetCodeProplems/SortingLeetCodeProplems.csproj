@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Easy\ContainsDuplicate.cs" />
     <Compile Include="Easy\HowManyNumbersAreSmallerThanTheCurrentNumber.cs" />
+    <Compile Include="Easy\MaximumSubarray.cs" />
     <Compile Include="Easy\MinimumSumOfFourDigitNumberAfterSplittingDigits.cs" />
+    <Compile Include="Easy\TwoSum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

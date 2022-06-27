@@ -14,8 +14,8 @@ namespace SortingLeetCodeProplems
             Console.WriteLine("Start");
             Console.WriteLine("Insert Input");
 
-            var obj = new HowManyNumbersAreSmallerThanTheCurrentNumber();
-            var result = obj.SmallerNumbersThanCurrent(ReadIntArray());
+            var obj = new TwoSum();
+            var result = obj.GetTwoSum(ReadIntArray(), ReadInt());
             Console.WriteLine("result: " + WriteIntArray(result));
 
             Console.ReadLine();
@@ -36,6 +36,16 @@ namespace SortingLeetCodeProplems
         private static string WriteIntArray(int[] result)
         {
            return string.Join(",", result);
+        }
+
+        private static string WriteString(bool result)
+        {
+            return result.ToString();
+        }
+
+        private static string WriteString(int result)
+        {
+            return result.ToString();
         }
     }
 }
